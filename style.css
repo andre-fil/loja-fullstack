@@ -1,0 +1,121 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3#cat{
+    color: rgb(0, 0, 0);
+}
+table#topo{
+    background-image: linear-gradient(to right, red, rgb(93, 0, 0));
+    color: white;
+    width: 100%;
+}
+
+
+a{
+    color: white;
+}
+td{
+    align-items: center;
+    width: 25%;
+}
+
+td#p{
+    width: 20%;
+    vertical-align: top;
+}
+td#p1{
+   width: 20%;
+   align-items: center;
+   vertical-align: bottom;
+}
+
+p#desc, p#strike{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2;
+}
+
+p#atual{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: px;
+    color: red;
+}
+
+table#lojas{
+    width: 20%;
+    border-spacing: 10px;
+}
+
+
+table#lojas {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+
+    font-size: 20px;
+}
+
+table#contatos{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    border: 0;
+    
+}
+
+
+h3{
+    
+    font-size: 20px;
+    color: red;
+}
+div#hr{
+    width: 97%;
+    height: 0.2%;
+    background-image: linear-gradient(to right, red, black);
+    position: absolute;
+
+}
+body{
+    background-image: linear-gradient(to right, white, rgba(207, 207, 207, 0.363));
+    background-attachment: fixed;
+   
+}
+
+.categoria{
+  
+
+    display:inline-block;
+   
+    
+ 
+
+   
+}
+.produto{
+   
+    
+    margin-top: -12%;
+    margin-left: 10%;
+    display:inline-block;
+    width: 100%;
+ 
+   
+    
+}
+
+.boxProduto{
+    display:inline-block;
+    padding-top: 40px;
+    padding: 40px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.preco{
+    font-weight: 800;
+    color:red
+}

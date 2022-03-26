@@ -1,0 +1,24 @@
+.maiorr{
+    width: 100%;
+    height:400px;
+    background-color: blue;
+    display: inline-block;
+}
+.maiorr div{
+    display: inline-block;
+   margin-left: 10%;
+
+}
+
+#el1{
+    width: 100px;
+    height:100px;
+    background-color: red;
+
+}
+#el2{
+    width: 100px;
+    height:100px;
+    background-color: yellow;
+   
+}
